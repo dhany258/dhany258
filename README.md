@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**dhany258/dhany258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my second GitHub profile! I'm **Dhany Aulia Fajrianto**, a dedicated **Mobile Developer** with expertise in **Android Development**, **UI/UX Design**, and **Web Development**. My passion lies in creating seamless user experiences and delivering clean, efficient, and responsive code.  
 
-Here are some ideas to get you started:
+<!--## About Me  
+- 🎓 **Education:** Informatics Engineering at Universitas Bina Sarana Informatika.  
+- 💻 **Certifications:**  
+  - Graduate of **Bangkit Academy** led by Google, Tokopedia, Gojek, and Traveloka in Android Development.  
+  - Graduate of **Dibimbing.id** in UI/UX Design.  
+- 🏆 **Achievements:**  
+  - Best Team Award in the Bangkit Company Track Capstone Project.  
+  - **GPA:** 4.0 at Universitas Bina Sarana Informatika. 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- **Programming Languages:** Kotlin, Java, Dart.  
+- **Frameworks & Tools:** Jetpack Compose, TensorFlow Lite, CameraX, Flutter.  
+ -->
+## Contact Me  
+- 📩 **Email:** dhany.af25@gmail.com  
+- 🌐 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/dhanyaufar/)  
+- 🌟 Let's collaborate to create impactful and innovative applications!  
+
+
+
