@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my second GitHub profile! I'm **Dhany Aulia Fajrianto**, a dedicated **Mobile Developer** with expertise in **Android Development**, **UI/UX Design**, and **Web Development**. My passion lies in creating seamless user experiences and delivering clean, efficient, and responsive code.  
+Welcome to my second GitHub profile! I'm **Dhany Aulia Fajrianto**, a dedicated **Mobile Developer** with expertise in **Android Development**, **UI/UX Design**, and **Web Development**. 
 
 <!--## About Me  
 - 🎓 **Education:** Informatics Engineering at Universitas Bina Sarana Informatika.  
